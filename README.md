@@ -86,12 +86,14 @@ Verifica se há diferenças significativas entre os clusters.
 ### 🧠 Clusterização - Perspectiva Ligações
 ![3D Cluster Calls](imgs/p3.png)
 
-🔍 Interpretação dos Clusters
+🔍 **Interpretação dos Clusters**
 
-| Cluster	| Características	| Estratégias
-|0	| Alta renda, digitalizados, não ligam com frequência	| Ofertas premium, produtos de investimento, comunicação por e-mail 📧
-|1  | Renda baixa, usam telefone, menos digitalizados	| FAQs, tutoriais, cashback, app com funcionalidades intuitivas 📞📱
-|2	| Intermediários, preferem visitas presenciais | Acompanhamento humano, estímulo à transição digital, consultoria financeira 👥🏦
+| Cluster | Características | Estratégias |
+|--------:|------------------|-------------|
+| **0**   | Alta renda, digitalizados, não ligam com frequência | Ofertas premium, produtos de investimento, comunicação por e-mail 📧 |
+| **1**   | Renda baixa, usam telefone, menos digitalizados       | FAQs, tutoriais, cashback, app com funcionalidades intuitivas 📞📱 |
+| **2**   | Intermediários, preferem visitas presenciais          | Acompanhamento humano, estímulo à transição digital, consultoria financeira 👥🏦 |
+
 
 ✅ Conclusão
 
