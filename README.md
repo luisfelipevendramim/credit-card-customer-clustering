@@ -34,6 +34,7 @@ Foram explorados diferentes algoritmos de clusterização:
 ---
 
 🗂️ Carregamento e Exploração dos Dados
+
 📁 Fonte dos dados
 
 Dataset disponível no Kaggle:
@@ -77,20 +78,20 @@ Verifica se há diferenças significativas entre os clusters.
 
 🧭 Perspectiva 2
 
-### 🧠 Clusterização - Perspectiva Online
-![3D Cluster Online](imgs/p2.png)
+### 🧠 Clusterização - Perspectiva Banco
+![3D Cluster Bank](imgs/p2.png)
 
 🧭 Perspectiva 3
 
-### 🧠 Clusterização - Perspectiva Online
-![3D Cluster Online](imgs/p3.png)
+### 🧠 Clusterização - Perspectiva Ligações
+![3D Cluster Calls](imgs/p3.png)
 
 🔍 Interpretação dos Clusters
 
-Cluster:	Características	- Estratégias
-0:	Alta renda, digitalizados, não ligam com frequência	- Ofertas premium, produtos de investimento, comunicação por e-mail 📧
-1:  Renda baixa, usam telefone, menos digitalizados	- FAQs, tutoriais, cashback, app com funcionalidades intuitivas 📞📱
-2:	Intermediários, preferem visitas presenciais	- Acompanhamento humano, estímulo à transição digital, consultoria financeira 👥🏦
+| Cluster	| Características	| Estratégias
+|0	| Alta renda, digitalizados, não ligam com frequência	| Ofertas premium, produtos de investimento, comunicação por e-mail 📧
+|1  | Renda baixa, usam telefone, menos digitalizados	| FAQs, tutoriais, cashback, app com funcionalidades intuitivas 📞📱
+|2	| Intermediários, preferem visitas presenciais | Acompanhamento humano, estímulo à transição digital, consultoria financeira 👥🏦
 
 ✅ Conclusão
 
